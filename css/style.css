@@ -62,6 +62,7 @@ section {
   margin: 0 auto;
   width: 60%;
 }
+/* Header CSS */ 
 
 h1 {
   font-family: sans-serif;
@@ -83,7 +84,7 @@ h3 {
   margin 10px, 0;
   width: 100%;
   }
-
+/* Code for altering the background color of the last 3 div elements in file */ 
 div.feature {
     background-color: red;
 }
